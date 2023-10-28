@@ -1,0 +1,29 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#searchbox{
+  width:60%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.5rem
+}
+#card{
+  border: 1px solid black;
+  margin: 7px;
+}
+#card #head{
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin: 5px;
+  padding: 5px;
+}
+#card #mail{
+  font-size: 1.2rem;
+  padding: 5px;
+}
+.hide{
+  display: none
+}
+.hightlight{
+background: yellow;
+}
